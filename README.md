@@ -5,8 +5,8 @@ providing actionable insights for business operations. Data cleaning was perform
 and DAX was leveraged to create custom measures and workflow models for relational mapping. Below is a preview of the 
 completed dashboard along with a video demonstration:
 
-![Dashboard Preview](<img width="2052" height="1162" alt="Full Dashboard Screenshot" src="https://github.com/user-attachments/assets/0eac8180-45dc-4479-b477-339f8afb84fa" />
-)
+![Full Dashboard Screenshot](https://github.com/user-attachments/assets/0eac8180-45dc-4479-b477-339f8afb84fa)
+
 
 [Watch Video Demonstration](https://www.loom.com/share/54207ce32a884540aaf82b7b9ee866b4?sid=93963a7a-af79-4b5c-b32d-53b8cafdae68)
 
